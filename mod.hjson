@@ -1,6 +1,6 @@
-name: "example-mod"
-displayName: "[orange]Example[gold] Mod" //what displays in the mod selection menu
-author: "Anuke"
-description: "A simple mod. Demonstrates how to make[accent] new ores[] and[orange] machines.[]"
-version: "3.1"
-minGameVersion: "103"
+name: "logic-plus"
+displayName: "[purple]Logic[green] Plus" //what displays in the mod selection menu
+author: "PlanetSat0rn"
+description: "logic"
+version: "1.0"
+minGameVersion: "136"
