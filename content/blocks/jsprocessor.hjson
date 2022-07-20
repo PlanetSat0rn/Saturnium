@@ -1,6 +1,6 @@
 name: JS Processor
 description: Runs /js Code Easily, Great For Managing Servers.
-type: logic
+type: LogicProcessor
 size: 1
 category: logic
 research: micro-processor
