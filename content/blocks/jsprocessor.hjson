@@ -11,7 +11,7 @@ requirements: [
 ]
 consumes: {
 power: 1.5
-liquid {
+liquid: {
 liquid: cryofluid
 amount: 1
 }
