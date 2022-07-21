@@ -17,7 +17,7 @@ amount: 60
 }
 }
 hasLiquids: true
-craftTime: 10
+craftTime: 1
 range: 260.0
 maxInstructionsPerTick: 528
 instructionsPerTick: 480
