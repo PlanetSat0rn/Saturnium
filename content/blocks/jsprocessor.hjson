@@ -19,7 +19,6 @@ amount: 1
 hasPower: true
 hasLiquids: true
 craftTime: 10
-privileged: true
 range: 160.0
 maxInstructionsPerTick: 80
 instructionsPerTick: 40
