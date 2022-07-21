@@ -1,0 +1,13 @@
+name: Beryllium Micro Processor
+description: A microprocessor made with Beryllium.
+type: MessageBlock
+size: 1
+category: logic
+research: beryllium-micro-processor
+requirements: [
+  beryllium/90
+  graphite/50
+  silicon/50
+]
+craftTime: 1
+envEnabled: 17
