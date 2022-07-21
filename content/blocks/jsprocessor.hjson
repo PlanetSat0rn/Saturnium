@@ -1,24 +1,23 @@
-name: JS Processor
-description: Runs /js Code Easily, Great For Managing Servers.
+name: Sleeper Micro-Processor
+description: Doesnt Look Like Much Until You Realize That This Micro-Processor Has Been Packed With More Powerful Hardware, The Only Downside Is That It Requires Constant Cryofluid Intake.
 type: LogicBlock
 size: 1
 category: logic
-research: micro-processor
+research: logic-processor
 requirements: [
-  graphite/40
-  silicon/40
-  titanium/20
+  thorium/140
+  graphite/80
+  silicon/150
+  titanium/80
 ]
 consumes: {
-power: 1.5
 liquid: {
 liquid: cryofluid
 amount: 1
 }
 }
-hasPower: true
 hasLiquids: true
 craftTime: 10
-range: 160.0
-maxInstructionsPerTick: 80
-instructionsPerTick: 40
+range: 260.0
+maxInstructionsPerTick: 264
+instructionsPerTick: 132
