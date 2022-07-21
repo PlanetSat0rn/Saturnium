@@ -1,1 +1,10 @@
-
+name: Example Processor
+description: Ingame, its a OP processor. In the repo, its used to help others make processors.
+type: LogicBlock
+size: 1
+category: logic
+craftTime: 0
+range: 999.0
+maxInstructionsPerTick: 9999
+instructionsPerTick: 9999
+buildVisibility: sandboxOnly
