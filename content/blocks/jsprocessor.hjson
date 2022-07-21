@@ -1,5 +1,5 @@
 name: Sleeper Micro Processor
-description: Doesnt look like much until you realize that this Micro Processor has been packed with more powerful hardware. The only downside is that it requires constant cryofluid intake.
+description: A modified microprocessor capable of higher speeds at the cost of using coolant.
 type: LogicBlock
 size: 1
 category: logic
