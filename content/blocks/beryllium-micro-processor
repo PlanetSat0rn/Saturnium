@@ -3,7 +3,7 @@ description: A microprocessor made with Beryllium.
 type: LogicBlock
 size: 1
 category: logic
-research: onset
+research: silicon-arc-furnace
 requirements: [
   beryllium/90
   graphite/50
