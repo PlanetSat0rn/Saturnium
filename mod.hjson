@@ -1,6 +1,6 @@
 name: "logic-plus"
-displayName: "[purple]Logic[green] Plus" //what displays in the mod selection menu
+displayName: "[purple]Logic[green] Plus[]" //what displays in the mod selection menu
 author: "PlanetSat0rn"
-description: "logic"
+description: "Something that adds more logic blocks or smth idk."
 version: "1.0"
 minGameVersion: "136"
