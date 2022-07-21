@@ -1,5 +1,5 @@
-name: Beryllium Micro Processor
-description: A microprocessor made with Beryllium.
+name: Beryllium Message
+description: A message made with Beryllium.
 type: MessageBlock
 size: 1
 category: logic
