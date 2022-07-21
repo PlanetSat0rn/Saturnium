@@ -5,10 +5,10 @@ size: 1
 category: logic
 research: logic-processor
 requirements: [
-  thorium/140
-  graphite/80
-  silicon/150
-  titanium/80
+  thorium/150
+  graphite/180
+  silicon/160
+  titanium/160
 ]
 consumes: {
 liquid: {
@@ -19,5 +19,5 @@ amount: 60
 hasLiquids: true
 craftTime: 10
 range: 260.0
-maxInstructionsPerTick: 396
-instructionsPerTick: 264
+maxInstructionsPerTick: 528
+instructionsPerTick: 480
