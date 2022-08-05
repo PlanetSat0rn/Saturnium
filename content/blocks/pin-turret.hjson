@@ -9,4 +9,18 @@ type: BulletType
 }
 size: 1
 category: turret
-buildVisibility: sandboxOnly
+consumes: {
+  items: {
+    items: [
+      lead/10
+      silicon/30
+    ]
+  }
+}
+requirements: [
+  copper/20
+  lead/75
+  silicon/50
+  titanium/50
+]
+research: cluster
