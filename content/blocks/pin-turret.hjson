@@ -1,6 +1,8 @@
 name: Pin (WIP)
 description: A turret which places a dot where the cursor is. (i have not done that part yet)
-type: PowerTurret
+type: BulletType
+  spawnUnit: {
+    type: Missile
 shootType: {
 targetAir: false
 targetGround: false
