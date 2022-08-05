@@ -1,6 +1,10 @@
 name: Pin (WIP)
 description: A turret which places a dot where the cursor is. (i have not done that part yet)
-type: ContinuousTurret
+type: PowerTurret
+shootType: {
+targetAir: false
+targetGround: false
+}
 size: 1
 category: turret
 buildVisibility: sandboxOnly
