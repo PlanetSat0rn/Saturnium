@@ -1,6 +1,6 @@
 name: Pin (WIP)
-description: A turret which places a dot where the cursor is. It can detect block types too (only has a function of your average turret though).
+description: A turret which places a dot where the cursor is. (i have not done that part yet)
 type: ContinuousTurret
 size: 1
-category: turrets
+category: turret
 buildVisibility: sandboxOnly
