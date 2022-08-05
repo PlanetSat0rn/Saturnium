@@ -3,6 +3,7 @@ description: A turret which places a dot where the cursor is. (i have not done t
 type: BulletType
   spawnUnit: {
     type: Missile
+    }
 shootType: {
 targetAir: false
 targetGround: false
