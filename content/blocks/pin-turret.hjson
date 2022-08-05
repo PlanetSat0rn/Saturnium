@@ -1,7 +1,7 @@
 localizedName: Pin (WIP)
 description: A turret which launches a dot where the cursor is. (i have not done that part yet)
-targetAir: false
-targetGround: false
+recoilTime: 40
+reload: 100
 type: powerTurret
 shootType: {
 type: BulletType
