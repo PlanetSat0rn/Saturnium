@@ -1,5 +1,5 @@
-localizedName: Pin (WIP)
-description: A turret which launches a dot where the cursor is. (i have not done that part yet)
+localizedName: Pin
+description: A turret which launches a Rocket That Follows The Cursor.
 recoilTime: 40
 reload: 100
 type: powerTurret
