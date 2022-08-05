@@ -3,7 +3,7 @@
          "controller": "MissileAI",
         "lowAltitude": false,
         "speed": 7,
-        "rotateSpeed": 3.6,
+        "rotateSpeed": 90,
         "lifetime": 185,
          "isEnemy": false,
         "allowedInPayloads": false,
