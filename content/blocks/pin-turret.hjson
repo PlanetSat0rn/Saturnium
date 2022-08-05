@@ -5,9 +5,7 @@ targetGround: false
 type: powerTurret
 shootType: {
 type: BulletType
-  spawnUnit: {
-    type: Missile
-    }
+  spawnUnit: Missile
 }
 size: 1
 category: turret
