@@ -1,6 +1,6 @@
-name: "logic-plus"
-displayName: "[purple]Logic[green] Plus[]" //what displays in the mod selection menu
+name: "logic-plus-wip"
+displayName: "Logic Plus (WIP Version)"
 author: "PlanetSat0rn"
-description: "Something that adds more logic blocks or smth idk."
-version: "1.1"
+description: "The WIP Version Of My Mod, Expect Changes."
+version: "1.2wip"
 minGameVersion: "136"
