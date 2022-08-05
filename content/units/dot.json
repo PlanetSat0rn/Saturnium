@@ -1,0 +1,35 @@
+{
+        "type": "missile",
+         "controller": "MissileAI",
+        "lowAltitude": false,
+        "speed": 7,
+        "rotateSpeed": 3.6,
+        "lifetime": 185,
+         "isEnemy": false,
+        "allowedInPayloads": false,
+        "playerControllable": false,
+        "physics": false,
+        "useUnitCap": false,
+        "createWreck": false,
+        "createScorch": false,
+        "flying": true,
+        "hidden": true,
+        "health": 200,
+        "hitSize": 4,
+        "engineColor": "A9D8FFFF",
+        "outlineRadius": 0,
+        "engineSize": 2,
+        "engineLayer": 110,
+
+        "weapons": [
+       {
+    "name": "dot",
+    "shootCone": 360,
+    "shootOnDeath": true,
+    "controllable": true,
+    "shootSound": "none",
+    "bullet": {
+}
+}
+]
+}
