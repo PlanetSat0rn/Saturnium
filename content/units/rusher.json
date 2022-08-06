@@ -1,0 +1,5 @@
+"name": "rusher",
+"speed": 8,
+"type": "mech",
+"health: 150,
+"rotateSpeed": 8
