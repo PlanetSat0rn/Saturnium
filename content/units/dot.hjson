@@ -26,9 +26,9 @@
     shootOnDeath: true
     controllable: true
     shootSound: "none"
-    bullet: [
-    SplashDamage: 126
-    SplashDamageRadius: 32
-    Damage: 25
-]
+    bullet: {
+    "SplashDamage": 126,
+    "SplashDamageRadius": 32,
+    "Damage": 25
+}
 ]
