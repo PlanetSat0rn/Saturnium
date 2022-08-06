@@ -1,6 +1,6 @@
-name: "mindufun-wip"
-displayName: "Mindufun (WIP Version)"
+name: "mindufun"
+displayName: "MinduFun" //what displays in the mod selection menu
 author: "PlanetSat0rn"
-description: "The WIP Version Of My Mod, Expect Changes."
-version: "1.2wip"
+description: "A Mod I Made For Fun."
+version: "1.1"
 minGameVersion: "136"

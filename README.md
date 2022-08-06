@@ -1,5 +1,10 @@
-# WIP Version
+# MinduFun
+Was Originally A Logic Mod, Now Different
 
-this is where i test WIP stuff
+# Importing (master)
 
-Most of the stuff can only be used in sandbox
+Go Into Mindustry, Click Or Tap The Mods Section, Import Mod With Github And Type This "PlanetSat0rn/MinduFun"
+
+## Importing (other trees)
+
+Might Do It Later
