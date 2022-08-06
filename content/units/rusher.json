@@ -1,7 +1,7 @@
-"speed": 2,
+"speed": 1.6,
 "type": "mech",
 "health": 150,
-"rotateSpeed": 2,
+"rotateSpeed": 8,
 "weapons": [
   {
     "name": "rusher-gun",
