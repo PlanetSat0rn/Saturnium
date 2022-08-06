@@ -5,8 +5,8 @@
 "weapons": [
   {
     "name": "rusher-gun",
-    "x": 8
-    "y": 9,
+    "x": 6
+    "y": 4,
     "reload": 15,
     "recoil": 6,
     "shake": 2,
