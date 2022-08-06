@@ -1,4 +1,24 @@
 "speed": 2,
 "type": "mech",
 "health": 150,
-"rotateSpeed": 2
+"rotateSpeed": 2,
+"weapons": [
+  {
+    "name": "rusher-gun",
+    "x": 10,
+    "y": 18,
+    "reload": 15,
+    "recoil": 6,
+    "shake": 2,
+    "bullet": {
+      "damage": 12,
+      "speed": 12,
+      "lifetime": 35,
+      "height": 8,
+      "width": 8,
+      "pierceCap": 14,
+      "pierce": true,
+      "pierceBuilding": false,
+      "collidesTeam": false
+    }
+  }
