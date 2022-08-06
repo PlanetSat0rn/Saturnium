@@ -1,0 +1,32 @@
+localizedName: Needle
+description: Say Goodbye To Your Opponents.
+recoilTime: 10
+reload: 20
+type: powerTurret
+shootType: {
+type: BulletType
+  spawnUnit: needle-ammo
+}
+size: 2
+category: turret
+consumes: {
+  liquid: {
+    liquid: water
+    amount: 0.5
+    booster: true
+  }
+  items: {
+    items: [
+      lead/30
+      silicon/50
+    ]
+  }
+}
+requirements: [
+  copper/50
+  lead/150
+  silicon/100
+  titanium/50
+]
+research: pin-turret
+itemCapacity: 162
