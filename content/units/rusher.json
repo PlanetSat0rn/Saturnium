@@ -2,6 +2,8 @@
 "type": "mech",
 "health": 150,
 "rotateSpeed": 8,
+"range": 18,
+"research": "ground-factory"
 "weapons": [
   {
     "name": "rusher-gun",
@@ -9,6 +11,7 @@
     "y": 2,
     "reload": 15,
     "recoil": 1,
+    "rotate": true,
     "shake": 0,
     "bullet": {
       "damage": 12,
