@@ -23,6 +23,8 @@
 
         "weapons": [
        {
+    "SplashDamage": 65
+    "SplashDamageRadius": 32
     "name": "dot",
     "shootCone": 360,
     "shootOnDeath": true,
