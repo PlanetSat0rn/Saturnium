@@ -1,0 +1,12 @@
+name: Beryllium Message
+description: A message made with Beryllium.
+type: MessageBlock
+size: 1
+category: logic
+research: beryllium-micro-processor
+requirements: [
+  beryllium/5
+  graphite/5
+]
+craftTime: 1
+envEnabled: 17
