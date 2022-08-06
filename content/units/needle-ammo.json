@@ -21,7 +21,7 @@
         "engineLayer": 110,
         "weapons": [
        {
-    "name": "dot",
+    "name": "needle-ammo",
     "shootCone": 360,
     "shootOnDeath": true,
     "controllable": true,
