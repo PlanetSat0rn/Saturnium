@@ -1,34 +1,33 @@
-        "type": "missile",
-         "controller": "MissileAI",
-        "lowAltitude": false,
-        "speed": 3,
-        "rotateSpeed": 5,
-        "lifetime": 185,
-         "isEnemy": false,
-        "allowedInPayloads": false,
-        "playerControllable": false,
-        "physics": false,
-        "useUnitCap": false,
-        "createWreck": false,
-        "createScorch": false,
-        "flying": true,
-        "hidden": true,
-        "health": 200,
-        "hitSize": 4,
-        "engineColor": "A9D8FFFF",
-        "outlineRadius": 0,
-        "engineSize": 2,
-        "engineLayer": 110,
-        "weapons": [
-       {
-    "name": "needle-ammo",
-    "shootCone": 360,
-    "shootOnDeath": true,
-    "controllable": true,
-    "shootSound": "none",
-    "bullet": {
-                "SplashDamage": 65,
-    "SplashDamageRadius": 32
-}
-}
+        type: missile
+         controller: MissileAI
+        lowAltitude: false
+        speed": 3
+        rotateSpeed: 5
+        lifetime: 185
+         isEnemy: false
+        allowedInPayloads: false
+        playerControllable: false
+        physics: false
+        useUnitCap: false
+        createWreck: false
+        createScorch: false
+        flying: true
+        hidden: true
+        health: 200
+        hitSize: 4
+        engineColor: "A9D8FFFF"
+        outlineRadius": 0
+        engineSize: 2
+        engineLayer: 110
+        weapons: [
+       
+    name: needle-missile
+    shootCone: 360
+    shootOnDeath: true
+    controllable: true
+    shootSound: "none"
+    bullet: {
+    SplashDamage: 300
+    SplashDamageRadius: 32
+    Damage: 185
 ]
