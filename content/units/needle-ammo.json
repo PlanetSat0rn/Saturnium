@@ -28,7 +28,7 @@
     "controllable": true,
     "shootSound": "none",
     "bullet": {
-        "SplashDamage": 648
+    "SplashDamage": 648,
     "SplashDamageRadius": 32
 }
 }
