@@ -21,6 +21,8 @@
         "engineSize": 2,
         "engineLayer": 110,
 
+         "SplashDamage": 65
+    "SplashDamageRadius": 32
         "weapons": [
        {
     "SplashDamage": 65
@@ -31,6 +33,8 @@
     "controllable": true,
     "shootSound": "none",
     "bullet": {
+                "SplashDamage": 65
+    "SplashDamageRadius": 32
 }
 }
 ]
