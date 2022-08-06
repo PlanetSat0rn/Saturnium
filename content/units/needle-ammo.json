@@ -20,12 +20,8 @@
         "outlineRadius": 0,
         "engineSize": 2,
         "engineLayer": 110,
-"SplashDamage": 65
-    "SplashDamageRadius": 3
         "weapons": [
        {
-    "SplashDamage": 65
-    "SplashDamageRadius": 32 
     "name": "needle-ammo",
     "shootCone": 360,
     "shootOnDeath": true,
