@@ -16,10 +16,6 @@
         "hidden": true,
         "health": 200,
         "hitSize": 4,
-        "engineColor": "A9D8FFFF",
-        "outlineRadius": 0,
-        "engineSize": 2,
-        "engineLayer": 110,
         "weapons": [
        {
     "name": "needle-ammo",
