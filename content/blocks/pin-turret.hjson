@@ -1,4 +1,4 @@
-localizedName: Pin
+localizedName: Pin (Planned to be removed)
 description: A turret which launches a Rocket That Follows The Cursor.
 recoilTime: 40
 reload: 100
