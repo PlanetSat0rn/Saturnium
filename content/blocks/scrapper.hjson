@@ -1,7 +1,13 @@
 localizedName: Scrapper
 description: Turns anything inputted into Scrap
+category: crafting
 type: genericCrafter
 size: 1
 outputItem: scrap/5
-rotate: false
-category: crafting
+research: pulverizer
+requirements: [
+  copper/45
+  lead/30
+  graphite/10
+]
+craftTime: 1
