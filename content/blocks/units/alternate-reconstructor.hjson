@@ -14,7 +14,7 @@
   ]
   consumes:
   {
-    power: 0.8
+    power: 4.5
     items:
     {
       items:
