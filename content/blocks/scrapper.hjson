@@ -3,7 +3,7 @@ description: Turns anything inputted into Scrap
 category: crafting
 type: genericCrafter
 size: 1
-outputItem: scrap/5
+outputItem: scrap/1
 research: pulverizer
 requirements: [
   copper/45
