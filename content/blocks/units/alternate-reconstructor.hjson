@@ -1,0 +1,37 @@
+{
+  type: Reconstructor
+  name: Alternate Constructor
+  description: Reconstructs T1 Units into their alternate upgrade
+  health: 420
+  size: 3
+  constructTime: 680
+  upgrades:
+  [
+    [
+      dagger
+      rusher
+    ]
+  ]
+  consumes:
+  {
+    power: 4.5
+    items:
+    {
+      items:
+      [
+        silicon/45
+        graphite/45
+        titanium/15
+      ]
+    }
+  }
+  requirements:
+  [
+    copper/240
+    lead/180
+    silicon/120
+    titanium/90
+  ]
+  category: units
+  research: additive-reconstructor
+}

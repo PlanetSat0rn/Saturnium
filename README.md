@@ -1,5 +1,5 @@
-# MinduFun
-Was Originally A Logic Mod, Now Different
+# Saturnium
+I add what i feel like adding
 
 # Importing (master)
 
@@ -7,4 +7,4 @@ Go Into Mindustry, Click Or Tap The Mods Section, Import Mod With Github And Typ
 
 ## Importing (other trees)
 
-Might Do It Later
+Just download the branch and import it
