@@ -2,5 +2,5 @@ name: "saturnium"
 displayName: "Saturnium" //what displays in the mod selection menu
 author: "PlanetSat0rn"
 description: "My main mod for stuff in hjson"
-version: "1.3"
+version: "1.3.2"
 minGameVersion: "136"
