@@ -4,7 +4,7 @@
   description: Reconstructs T1 Units into their alternate upgrade
   health: 420
   size: 3
-  constructTime: 320
+  constructTime: 680
   upgrades:
   [
     [
